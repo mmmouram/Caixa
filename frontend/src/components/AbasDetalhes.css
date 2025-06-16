@@ -1,0 +1,38 @@
+.abas-detalhes {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.abas-menu {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 10px;
+}
+
+.abas-menu button {
+  background: #eee;
+  border: none;
+  padding: 10px 20px;
+  margin: 0 5px;
+  cursor: pointer;
+}
+
+.abas-menu button.ativa {
+  background: #ccc;
+  font-weight: bold;
+}
+
+.acoes {
+  text-align: center;
+  margin-bottom: 15px;
+}
+
+.acoes button {
+  margin: 0 10px;
+  padding: 8px 16px;
+  cursor: pointer;
+}
+
+.conteudo-aba {
+  overflow-x: auto;
+}

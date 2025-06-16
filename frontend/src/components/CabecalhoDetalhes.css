@@ -1,0 +1,12 @@
+.cabecalho-detalhes {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.cabecalho-detalhes h2 {
+  margin-bottom: 10px;
+}
+
+.cabecalho-detalhes p {
+  margin: 5px 0;
+}
